@@ -5,6 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+      
   right:
     - text: "People"
       href: about.html
