@@ -1,1 +1,1 @@
-rmarkdown::render_site(input = "/code", quiet=TRUE)
+rmarkdown::render_site(input = "code", quiet=TRUE)

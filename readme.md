@@ -16,8 +16,8 @@ Project has two major folder: **code/** and **docs/**.
 # Build and publish
 
 ## Build whole site
-1. Start R console at project folder. 
-2. Execute `rmarkdown::render_site(input = "./code", quiet=TRUE)`
+1. Start R console at project folder (or setwd([directory project folder]) ) 
+2. Execute `rmarkdown::render_site(input = "code", quiet=TRUE)`
 3. Result will save in **docs/** folder
 
 ## Build a page
