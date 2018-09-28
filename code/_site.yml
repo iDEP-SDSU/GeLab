@@ -4,8 +4,7 @@ navbar:
   title: "Ge Lab"
   left:
     - text: "Home"
-      href: index.html
-      
+      href: /
   right:
     - text: "People"
       href: about.html
