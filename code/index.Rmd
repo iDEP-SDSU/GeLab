@@ -1,11 +1,7 @@
 ---
-title: "Sanford Profile"
+title: "Home"
 output: html_document
 ---
 
-Due to security concern, all reports are not avaliable in github.io.
-
-Please contact with Sanford Profile to access these reports.
-
-
+Working
 

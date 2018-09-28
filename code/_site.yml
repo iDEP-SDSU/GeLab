@@ -2,6 +2,9 @@ name: "Sanford Profile Github IO"
 output_dir: "../docs" 
 navbar:
   title: "Ge Lab"
+  left:
+    - text: "Home"
+      href: index.html
   right:
     - text: "People"
       href: about.html
@@ -12,5 +15,5 @@ navbar:
     - text: "Software & Data"
       href: softwareanddata.html
     - text: "Teaching"
-      href: index.html
+      href: teaching.html
     
