@@ -1,0 +1,16 @@
+name: "Sanford Profile Github IO"
+output_dir: "../docs" 
+navbar:
+  title: "Ge Lab"
+  right:
+    - text: "People"
+      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Software & Data"
+      href: softwareanddata.html
+    - text: "Teaching"
+      href: index.html
+    
