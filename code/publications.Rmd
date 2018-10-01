@@ -4,6 +4,7 @@ output:
   html_document:
     css: customstyles.css
 ---
+----------
 
 ### Publications (36)
 

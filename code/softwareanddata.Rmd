@@ -3,8 +3,24 @@ title: "Software & Data"
 output: html_document
 ---
 
+----------
 
 
+**Software (6)**
 
+-   [iDEP](http://bioinformatics.sdstate.edu/idep/): Integrated Differential Expression and Pathway analysis
+-   [ShinyGO](http://bioinformatics.sdstate.edu/go/): Gene Ontology Enrichment Analysis
+-   [GSKB](http://ge-lab.org/#/data): Gene set knowledge base for Pathway Analysis in Mouse
+-   GSKB: Bioconductor Package
+-   [AraPath](http://ge-lab.org/#/data): Arabidopsis pathway data (now part of GSKB)
+-   PPInfer: a Bioconductor package for inferring related proteins using protein interaction network
+
+----------
+
+**Data (3)**
+
+-   [Download gene sets for pathway analysis in model species](http://ge-lab.org/#/data)
+-   [Gene expression for antisense transcripts in human, mouse, and rat](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE41462)
+-   [Expression data for normal human tissues](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE2361)
 
 
