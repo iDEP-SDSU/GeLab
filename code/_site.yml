@@ -2,9 +2,6 @@ name: "Ge Lab Github IO"
 output_dir: "../docs" 
 navbar:
   title: "Ge Lab"
-  left:
-    - text: "Home"
-      href: index.html
   right:
     - text: "People"
       href: about.html
