@@ -1,9 +1,11 @@
 ---
 title: "Publications"
-output: html_document
+output: 
+  html_document:
+    css: customstyles.css
 ---
 
-
+### Publications (36)
 
 > 1. Steven Xijin Ge, Exploratory bioinformatics analysis reveals importance of "junk" DNA in early embryo development  **bioRxiv2016** [Paper](http://biorxiv.org/content/biorxiv/early/2016/10/09/079921.full.pdf) [Abstract](http://biorxiv.org/content/early/2016/10/09/079921)
 > 2. Liming Lai, Jason Hennessey, Valerie Bares, Eun Woo Son, Yuguang Ban, Wei Wang, Jianli Qi, Gaixin Jiang, Arthur Liberzon, Steven Ge, GSKB: A gene set database for pathway analysis in mouse  **bioRxiv** 082511 **2016** [Abstract](http://dx.doi.org/10.1101/082511) [Full text](http://biorxiv.org/content/biorxiv/early/2016/10/24/082511.full.pdf)
