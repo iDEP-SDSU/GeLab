@@ -11,9 +11,9 @@ output: html_document
 -   [iDEP](http://bioinformatics.sdstate.edu/idep/): Integrated Differential Expression and Pathway analysis
 -   [ShinyGO](http://bioinformatics.sdstate.edu/go/): Gene Ontology Enrichment Analysis
 -   [GSKB](http://ge-lab.org/#/data): Gene set knowledge base for Pathway Analysis in Mouse
--   GSKB: Bioconductor Package
+-   [GSKB](https://bioconductor.org/packages/release/data/experiment/html/gskb.html): Bioconductor Package
 -   [AraPath](http://ge-lab.org/#/data): Arabidopsis pathway data (now part of GSKB)
--   PPInfer: a Bioconductor package for inferring related proteins using protein interaction network
+-   [PPInfer](https://bioconductor.org/packages/release/bioc/html/PPInfer.html): a Bioconductor package for inferring related proteins using protein interaction network
 
 ----------
 
